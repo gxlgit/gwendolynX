@@ -1,0 +1,63 @@
+body{
+
+}
+
+nav{
+  text-align: center;
+   padding: 100px 0 0 0;
+   margin: 0 auto;
+   position: fixed;/* makes it sticky */
+}
+
+.tester{
+  margin: 0 auto !important;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo{
+  padding: 0 auto;
+  font-family: 'Quicksand', sans-serif;
+
+/* font-family: 'Sacramento', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Reenie Beanie', cursive;
+font-family: 'Happy Monkey', cursive; */
+}
+
+.side-nav {
+text-align: center;
+}
+/* https://www.sitepoint.com/understanding-bootstraps-affix-scrollspy-plugins/ */
+
+  /* .affix {
+  top: 20px;
+  width: 213px;
+}
+
+@media (min-width: 1200px) {
+  .affix {
+    width: 263px;
+  }
+} */
+
+.about-header{
+  text-align: center;
+}
+#about, #contact{
+  padding: 50px;
+}
+
+.contact-list{
+  list-style-type: none;
+  padding: 0;
+}
+
+.photo-holder{
+  margin-top: 5%;
+}
+
+
+/* .side-nav{
+  margin: 0 auto;
+} */
